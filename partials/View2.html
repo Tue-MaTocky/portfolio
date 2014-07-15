@@ -1,0 +1,12 @@
+<h1>Side Page</h1>
+<div data-ng-controller="SimpleController">
+	City: <input type="text" placeholder="Search" ng-model="search" />
+	<br />
+	<ul>
+		<li data-ng-repeat="cust in customers | filter:search | orderBy:'name'">
+			<a href="javascript:void(0)">
+				{{ cust.name }} - {{ cust.city }}
+			</a>
+		</li>
+	</ul>
+</div>
