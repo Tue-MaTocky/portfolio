@@ -1,0 +1,69 @@
+{
+	"profile": "I am a web and software developer with experience working in a Fortune 500 company as well as startup environments. I have academic experience in C++ and Java as a graduate in Computer Science. My recent work experience has included the development and design of e-commerce websites using front-end technologies. I am seeking opportunities for work that can leverage my experience in front-end web technologies and provide opportunities to mature my skills in C++ and Java.",
+	"skills": [
+		{
+			"title" : "Languages / Frameworks",
+			"strList" : ["HTML5", "CSS3", "jQuery", "Less", "C++"],
+			"list" : ["JavaScript", "KnockoutJS", "AngularJS", "Ajax", "Java", "XML", "XSLT"]
+		},
+		{
+			"title" : "Development",
+			"strList" : ["Responsive web design", "Object-oriented programming", "Agile software development"],
+			"list" : ["UI design and research", "Analytics"]
+		},
+		{
+			"title" : "Environments / Development Tools",
+			"strList" : ["SVN", "Windows", "Eclipse", "Sublime Text"],
+			"list" : ["Groovy/Grails", "Visual Studio", "CodeKit", "MAMP", "GitHub", "Linux", "Mac OS"]
+		},
+		{
+			"title" : "Web Infrastructures",
+			"strList" : [],
+			"list" : ["Ingeniux", "Intershop"]
+		}
+	],
+	"experience" : [
+		{
+			"title" : "E-commerce Web Developer",
+			"company" : "Hewlett-Packard",
+			"location" : "Austin, TX",
+			"startDate" : "April 1, 2013",
+			"endDate" : "July 3, 2014",
+			"info" : "Integrated and optimized the front-end components of B2B e-commerce sites. Converted Photoshop visuals into webpages. Integrated jQuery plugins and custom jQuery. Debugged HTML5/CSS3 and JavaScript KnockoutJS defects. Implemented and Modularized CMS style sheet components. Integrated KnockoutJS bindings and developed view models.",
+			"highlights" : ["Recognized for being the lead in closing the most defects in 3 consecutive weeks resulting in 45% of all defects closed.", "Promoted to jQuery lead developer. Responsible for 70% of all custom jQuery features and KnockoutJS custom binding."]
+		},
+		{
+			"title" : "Front-end Web Engineer",
+			"company" : "Volusion",
+			"location" : "Austin, TX",
+			"startDate" : "December 1, 2013",
+			"endDate" : "Febuary 6, 2014",
+			"info" : "Design and code front-end components of SaaS e-commerce websites for Volusion clients. Converted Photoshop visuals into HTML5 and CSS3/Less. Debugged HTML5/CSS3, JavaScript defects. Modularized CMS style sheet components. Implemented responsive design into static webpages.",
+			"highlights" : ["Design and develop core structural layout for webpage templates and modules."]
+		},
+		{
+			"title" : "E-commerce Web Developer",
+			"company" : "Hewlett-Packard",
+			"location" : "Boise, ID",
+			"startDate" : "May 1, 2012",
+			"endDate" : "March 8, 2013",
+			"info" : "Integrated and optimized the front-end components of B2C e-commerce sites. Converted Photoshop visuals into webpages. Integrated jQuery plugins and custom jQuery. Debugged HTML5/CSS3 and JavaScript defects. Implemented and Modularized CMS style sheet components. Maintained java and xml based workflows to manage e-commerce product promotions and integrate web technology services.",
+			"highlights" : ["Reduced website load times by over 40% by refactoring CSS and templates."]
+		},
+		{
+			"title" : "Web Developer",
+			"company" : "Brigham Young University – Idaho",
+			"location" : "Rexburg, ID",
+			"startDate" : "January 11, 2010",
+			"endDate" : "April 6, 2012",
+			"info" : "Integrated and optimized the front-end components of the Brigham Young University–Idaho website. Prototyped and managed user-experience of web services. Designed and coded CMS style sheet webpages using XSLT. Converted Photoshop visuals into webpages using HTML5 and CSS3. Lead knowledge sharing events with team members through training, workshops and confluences.",
+			"highlights " : ["Reduced the need for CMS training sessions by 60% by developing an online CMS training guide.", "Awarded most influential employee of the year 2011 for taking a key role in training and leading new web developers."]
+		}
+	],
+	"education" : {
+		"major" : "Bachelors of Computer Science",
+		"university" : "Brigham Young University – Idaho",
+		"location" : "Rexburg, ID",
+		"gradDate" : "April 6, 2012"
+	}
+}
